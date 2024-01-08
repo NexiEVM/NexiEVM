@@ -2,7 +2,7 @@
 - 👀 EVM scalable blockchain ecosystem
 - 🌱 Diving into layer-1 and layer-2 decentralized applications
 - 💞️ Closely collaborating with developers, builders and stakeholders in web3 spaces
-- 📫 Write to nexi@nexi.technology
+- 📫 Write to nexi@nexi.technology for any development or business inquiries!
 
 <!---
 NexiEVM/NexiEVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
